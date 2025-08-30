@@ -80,7 +80,7 @@
 
    ```bash
    git clone https://github.com/vsemke/fedora42-tools.git
-   cd fedora-management-scripts
+   cd fedora42-tools
    ```
 
 2. Сделайте скрипты исполняемыми:
