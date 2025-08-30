@@ -79,7 +79,7 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/vsemke/fedora-management-scripts.git
+   git clone https://github.com/vsemke/fedora42-tools.git
    cd fedora-management-scripts
    ```
 
